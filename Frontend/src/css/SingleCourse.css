@@ -1,0 +1,64 @@
+.course-card {
+    margin-bottom: 2rem;
+    width: 20rem !important;
+    border-radius: 1rem;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.img-top {
+    border-radius: 1rem 1rem 0 0 !important; /* Adds rounded top corners */
+    width: 100% !important;
+    height: 14rem; /* Ensures a consistent image height */
+    object-fit: cover !important;
+}
+
+.card-body {
+    padding: 1rem; /* Adds padding inside the card for better spacing */
+    background-color: #f8f9fa; /* Subtle background for the card body */
+    border-radius: 0 0 1rem 1rem;
+}
+
+.card-text p {
+    font-weight: 400 !important;
+    color: #333; /* Sets a neutral text color for readability */
+    font-size: 0.95rem; /* Adjusts the font size slightly for better readability */
+    margin-bottom: 1rem; /* Adds space between the description and other elements */
+}
+
+.course-link {
+    text-decoration: none;
+    color: #007BFF; /* Sets a blue color for links */
+    transition: color 0.3s ease;
+}
+
+.course-link:hover {
+    color: #0056b3; /* Darker blue on hover for better interactivity */
+}
+
+.grid-container .course-link {
+    text-decoration: none;
+}
+
+.grid-container .course-card {
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.grid-container .course-card:hover {
+    transform: scale(1.05);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.15); /* Increases shadow on hover for more emphasis */
+}
+
+.profcir {
+    background-color: #FF4040;
+    border-radius: 50%;
+    height: 45px;
+    width: 45px;
+    font-weight: 700;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 1.1rem; /* Increases font size for better visibility */
+}

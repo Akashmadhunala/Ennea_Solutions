@@ -1,0 +1,49 @@
+.course-card {
+    border: none !important;
+    margin-bottom: 2rem;
+    width: 16rem;
+    border-radius: 1rem;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.all-img {
+    border-radius: 1rem 1rem 0 0 !important; /* Adds rounded top corners */
+    width: 100% !important;
+    height: 12rem; /* Adjusts height for a consistent image size */
+    object-fit: cover !important;
+}
+
+.card-body {
+    padding: 1rem;
+}
+
+.card-text p {
+    font-weight: 400 !important;
+    color: #333; /* Sets a neutral text color */
+    font-size: 0.9rem; /* Adjusts font size for readability */
+}
+
+.course-link {
+    text-decoration: none;
+    color: #007BFF; /* Sets a blue color for links */
+    transition: color 0.3s ease;
+}
+
+.course-link:hover {
+    color: #0056b3; /* Darker blue on hover for a more interactive feel */
+}
+
+.grid-container .course-link {
+    text-decoration: none;
+}
+
+.grid-container .course-card {
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    border-radius: 1rem;
+}
+
+.grid-container .course-card:hover {
+    transform: scale(1.05);
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.15); /* Adds a more noticeable shadow on hover */
+}

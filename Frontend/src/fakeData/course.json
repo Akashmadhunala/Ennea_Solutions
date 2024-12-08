@@ -1,0 +1,209 @@
+[
+  {
+      "id": "1",
+      "title": "Advanced OOP with Python. Beyond the basics.",
+      "description": "This course teaches Object Oriented Design in Python beyond intermediate level. The course solidifies and deepens your knowledge about classes, objects, inheritance and polymorphism. You will learn many Python specific class and object implementation details of construction, overriding and overloading. Work through many exercises that allows you to practice common OOP tasks.",
+      "rating":4.5,
+      "tutor":"Shraddha Kapra",
+      "language": "English",
+      "courseObjectives":["make better decisions when and how to use OOP features in your code","use inheritance for nominal sub typing and prevent duplicate code","create more efficient classes by integrating Python’s built-in language features","adhere to the open closed principle with Polymorphism","use protocols to achieve structural subtyping","learn Python’s unique way to implement encapsulation"],
+      "topicsCovered":["Object Oriented Programming (OOP)","software Engineering","development"],
+      "enrolledStudents":34,
+      "price": 1500,
+      "image":"https://images.unsplash.com/photo-1649180556628-9ba704115795?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fHB5dGhvbiUyMHByb2dyYW1taW5nfGVufDB8fDB8fHww",
+      "usersEnrolled":[],
+      "courseReviews":[]
+  
+    },
+  {
+      "id": "2",
+      "title": "Mastering Data Science with Python",
+      "description": "An in-depth data science course using Python, covering data wrangling, analysis, and visualization. Perfect for aspiring data scientists.",
+      "rating": 4.7,
+      "tutor": "Amit Sharma",
+      "language": "English",
+      "courseObjectives": [
+        "gain proficiency in data cleaning and manipulation",
+        "learn data visualization techniques using Matplotlib and Seaborn",
+        "apply machine learning algorithms on real-world datasets",
+        "explore deep learning basics with TensorFlow and PyTorch",
+        "develop data analysis skills to solve real-world problems"
+      ],
+      "topicsCovered": ["Data Science", "Machine Learning", "Python Programming"],
+      "enrolledStudents": 78,
+      "price": 2500,
+      "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "usersEnrolled":[],
+      "courseReviews":[]
+  },
+  {
+      "id": "3",
+      "title": "JavaScript: From Beginner to Advanced",
+      "description": "A comprehensive JavaScript course for web developers, covering everything from the basics to advanced ES6+ features.",
+      "rating": 4.3,
+      "tutor": "Sara Lee",
+      "language": "English",
+      "courseObjectives": [
+        "understand JavaScript fundamentals",
+        "master ES6+ syntax and features",
+        "learn asynchronous programming with promises and async/await",
+        "build interactive web applications",
+        "implement best practices in JavaScript code"
+      ],
+      "topicsCovered": ["JavaScript", "Web Development", "Frontend Development"],
+      "enrolledStudents": 120,
+      "price": 1800,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuHnJDLOcdm_0b6N6kNj-1OvO9KhKYgqIy0w&s",
+      "usersEnrolled":[],
+      "courseReviews":[]
+  },
+  {
+      "id": "4",
+      "title": "Full-Stack Web Development with React and Node.js",
+      "description": "A project-based course covering full-stack development with React on the frontend and Node.js/Express on the backend.",
+      "rating": 4.8,
+      "tutor": "John Doe",
+      "language": "English",
+      "courseObjectives": [
+        "build dynamic, responsive web applications",
+        "use React for interactive frontend development",
+        "integrate backend APIs with Express and MongoDB",
+        "apply authentication and authorization",
+        "deploy full-stack applications to production"
+      ],
+      "topicsCovered": ["Full-Stack Development", "React", "Node.js", "MongoDB"],
+      "enrolledStudents": 200,
+      "price": 3000,
+      "image": "https://markovate.com/wp-content/uploads/2022/08/top-MERN-Stack.webp",
+      "usersEnrolled":[],
+      "courseReviews":[]
+  },
+  {
+      "id": "5",
+      "title": "Machine Learning A-Z: Hands-On Python & R In Data Science",
+      "description": "Learn Machine Learning from scratch in Python and R, with projects in classification, regression, and clustering.",
+      "rating": 4.6,
+      "tutor": "Emily Davis",
+      "language": "English",
+      "courseObjectives": [
+        "understand supervised and unsupervised learning",
+        "apply regression, classification, and clustering techniques",
+        "implement machine learning models in Python and R",
+        "evaluate model performance and optimize algorithms",
+        "work on real-world datasets to build practical skills"
+      ],
+      "topicsCovered": ["Machine Learning", "Python", "R Programming"],
+      "enrolledStudents": 340,
+      "price": 2800,
+      "image": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/09/72142deep-learning-vs-machine-learning-t.jpg",
+      "usersEnrolled":[],
+      "courseReviews":[]
+  },
+  {
+      "id": "6",
+      "title": "Introduction to Cybersecurity",
+      "description": "Gain a solid foundation in cybersecurity fundamentals, including threat analysis, network security, and cryptography.",
+      "rating": 4.4,
+      "tutor": "Mark White",
+      "language": "English",
+      "courseObjectives": [
+        "understand cybersecurity principles",
+        "identify and analyze security threats",
+        "learn network security and access control",
+        "explore encryption and cryptographic protocols",
+        "gain practical skills in risk assessment"
+      ],
+      "topicsCovered": ["Cybersecurity", "Networking", "Cryptography"],
+      "enrolledStudents": 180,
+      "price": 2000,
+      "image": "https://rms.koenig-solutions.com/Sync_data/CCE_Logo/2283-whatiscybersecurity.jpgL.jpg",
+      "usersEnrolled":[],
+      "courseReviews":[]
+  },
+  {
+      "id": "7",
+      "title": "iOS Development for Beginners",
+      "description": "This beginner-friendly course teaches iOS app development using Swift and Xcode, covering the basics of UIKit and SwiftUI.",
+      "rating": 4.7,
+      "tutor": "Lily Chen",
+      "language": "English",
+      "courseObjectives": [
+        "understand Swift programming basics",
+        "create UI with UIKit and SwiftUI",
+        "integrate APIs and data persistence",
+        "develop user-friendly iOS applications",
+        "publish apps to the App Store"
+      ],
+      "topicsCovered": ["iOS Development", "Swift", "Mobile Development"],
+      "enrolledStudents": 150,
+      "price": 2200,
+      "image": "https://img.freepik.com/free-vector/gradient-ui-ux-background_23-2149051191.jpg?ga=GA1.1.98614864.1726130140&semt=ais_hybrid",
+      "usersEnrolled":[],
+      "courseReviews":[]
+  },
+  {
+      "id": "8",
+      "title": "Data Visualization with Tableau",
+      "description": "Learn to create compelling data visualizations and dashboards with Tableau for data-driven decision-making.",
+      "rating": 4.9,
+      "tutor": "Alex Brown",
+      "language": "English",
+      "courseObjectives": [
+        "create data visualizations and dashboards",
+        "use Tableau’s analytical tools effectively",
+        "explore data preparation and cleaning",
+        "integrate data from various sources",
+        "tell stories with data visualizations"
+      ],
+      "topicsCovered": ["Data Visualization", "Tableau", "Business Intelligence"],
+      "enrolledStudents": 400,
+      "price": 1900,
+      "image": "https://www.tableau.com/sites/default/files/2022-11/Create%20Explore%20Share%20image.png",
+      "usersEnrolled":[],
+      "courseReviews":[]
+  },
+  {
+      "id": "9",
+      "title": "Blockchain Fundamentals",
+      "description": "An introductory course on blockchain technology, covering distributed ledgers, smart contracts, and cryptocurrencies.",
+      "rating": 4.3,
+      "tutor": "Ryan Smith",
+      "language": "English",
+      "courseObjectives": [
+        "understand blockchain concepts and terminology",
+        "explore distributed ledger technologies",
+        "learn about cryptocurrency basics",
+        "implement basic smart contracts",
+        "analyze blockchain security and privacy"
+      ],
+      "topicsCovered": ["Blockchain", "Cryptocurrency", "Smart Contracts"],
+      "enrolledStudents": 90,
+      "price": 2500,
+      "image": "https://img.freepik.com/free-photo/3d-rendering-blockchain-technology_23-2151480192.jpg?ga=GA1.1.98614864.1726130140&semt=ais_hybrid",
+      "usersEnrolled":[],
+      "courseReviews":[]
+  },
+  {
+      "id": "10",
+      "title": "AWS Certified Solutions Architect",
+      "description": "Prepare for the AWS Solutions Architect certification exam with this in-depth course on AWS cloud infrastructure and architecture.",
+      "rating": 4.8,
+      "tutor": "George Martinez",
+      "language": "English",
+      "courseObjectives": [
+        "learn core AWS services and solutions",
+        "design resilient and high-performing architectures",
+        "understand security and compliance on AWS",
+        "prepare for the AWS Solutions Architect exam",
+        "gain hands-on experience with AWS tools"
+      ],
+      "topicsCovered": ["AWS", "Cloud Computing", "Solutions Architecture"],
+      "enrolledStudents": 275,
+      "price": 3200,
+      "image": "https://assets.intersystems.com/dims4/default/a9dad27/2147483647/strip/true/crop/780x422+0+0/resize/780x422!/quality/90/?url=http%3A%2F%2Finter-systems-brightspot.s3.amazonaws.com%2F26%2Fbd%2F6a6aa762425f87ad7d5c2fe65f8c%2Fawslogo-image.jpg",
+      "usersEnrolled":[],
+      "courseReviews":[]
+  }      
+  
+  
+]
