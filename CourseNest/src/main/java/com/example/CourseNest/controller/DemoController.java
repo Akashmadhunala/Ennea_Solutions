@@ -19,16 +19,6 @@ public class DemoController {
     @Autowired
     private UsersRepository usersRepository;
 
-
-
-
-
-
-
-
-
-
-
     @PostMapping("/users/add")
     public void addUser(@RequestBody Users user){
         user.getCoursesEnrolled().forEach(course -> {
